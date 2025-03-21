@@ -1,4 +1,6 @@
 <!-- title: Belfort & Lupin -->
+<!-- type: Série d'animation jeunesse -->
+<!-- desc: Python, Rez, OpenPype -->
 
 [Belfort & Lupin](https://www.france.tv/france-4/belfort-lupin/)
 
